@@ -1,0 +1,26 @@
+[
+  {
+    "type": "image",
+    "src": "/gallery/preparativos/cover.png",
+    "thumb": "/gallery/preparativos/cover.png",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Preparativos"
+  },
+  {
+    "type": "image",
+    "src": "/gallery/preparativos/img-1.png",
+    "thumb": "/gallery/preparativos/img-1.png",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Carvão pronto"
+  },
+  {
+    "type": "image",
+    "src": "/gallery/preparativos/img-2.png",
+    "thumb": "/gallery/preparativos/img-2.png",
+    "w": 1600,
+    "h": 1067,
+    "alt": "Cortes prontos"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "title": "Churrascão Dia dos Pais",
+  "subtitle": "Comida boa, música e risadas.",
+  "date": "2025-08-16T13:00:00-03:00",
+  "venue": {
+    "name": "Casa do Erick",
+    "address": "Rua *******, 123 - São Paulo, SP"
+  },
+  "maps": {
+    "google": "https://maps.google.com",
+    "waze": "https://waze.com"
+  },
+  "embeds": {
+    "rsvpForm": "https://docs.google.com/forms/d/e/1FAIpQLSf_rsvp_form_example/viewform?embedded=true",
+    "mapFrame": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.2408!2d-46.6!3d-23.6!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0:0x0!2zMjPCsDM2JzAwLjAiUyA0NsKwMzYnMDAuMCJX!5e0!3m2!1spt-BR!2sBR!4v00000000000"
+  },
+  "contacts": [
+    {
+      "name": "Erick",
+      "phone": "+55 11 1234-5678",
+      "whatsapp": "https://wa.me/5511954278210"
+    },
+    {
+      "name": "RAJ",
+      "phone": "+55 11 95427-8210",
+      "whatsapp": "https://wa.me/5511954278210"
+    }
+  ],
+  "playlist": "https://open.spotify.com/embed/playlist/37i9dQZF1DX7KNKjOK0o75?utm_source=generator"
+}

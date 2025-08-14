@@ -1,0 +1,1 @@
+export default function Footer() { return (<footer className='mt-16 border-t border-zinc-800'><div className='container py-10 text-sm text-zinc-400'><p>© {new Date().getFullYear()} Churrascão Dia dos Pais.</p></div></footer>); }

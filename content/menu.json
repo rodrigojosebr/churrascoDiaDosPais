@@ -1,0 +1,98 @@
+[
+  {
+    "class": "Principal",
+    "item": "Picanha bovina"
+  },
+  {
+    "class": "Principal",
+    "item": "Contra-filé"
+  },
+  {
+    "class": "Principal",
+    "item": "Maminha"
+  },
+  {
+    "class": "Principal",
+    "item": "Linguiça suína"
+  },
+  {
+    "class": "Principal",
+    "item": "Costelinha suína"
+  },
+  {
+    "class": "Principal",
+    "item": "Coração de frango (espetinhos)"
+  },
+  {
+    "class": "Principal",
+    "item": "Sobrecoxa de frango desossada"
+  },
+  {
+    "class": "Principal",
+    "item": "Moída burger 30% gordura"
+  },
+  {
+    "class": "Acompanhamentos",
+    "item": "Pão de alho"
+  },
+  {
+    "class": "Acompanhamentos",
+    "item": "Queijo coalho"
+  },
+  {
+    "class": "Acompanhamentos",
+    "item": "Pão brioche"
+  },
+  {
+    "class": "Acompanhamentos",
+    "item": "Farofa"
+  },
+  {
+    "class": "Acompanhamentos",
+    "item": "Vinagrete"
+  },
+  {
+    "class": "Suprimentos",
+    "item": "Gelo"
+  },
+  {
+    "class": "Suprimentos",
+    "item": "Carvão"
+  },
+  {
+    "class": "Bebidas",
+    "item": "Água"
+  },
+  {
+    "class": "Bebidas",
+    "item": "Refrigerante"
+  },
+  {
+    "class": "Bebidas",
+    "item": "Suco"
+  },
+  {
+    "class": "Temperos",
+    "item": "Sal grosso"
+  },
+  {
+    "class": "Temperos",
+    "item": "Páprica"
+  },
+  {
+    "class": "Temperos",
+    "item": "Cominho"
+  },
+  {
+    "class": "Temperos",
+    "item": "Chimichurri fresco"
+  },
+  {
+    "class": "Temperos",
+    "item": "Alho"
+  },
+  {
+    "class": "Extras",
+    "item": "Limão"
+  }
+]

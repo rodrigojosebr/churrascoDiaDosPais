@@ -1,0 +1,30 @@
+[
+  {
+    "time": "13:00",
+    "title": "Recepção & drinks"
+  },
+  {
+    "time": "13:30",
+    "title": "Entradas",
+    "note": "pão de alho, coalho, linguiça"
+  },
+  {
+    "time": "14:00",
+    "title": "Aves",
+    "note": "sobrecoxa/coração"
+  },
+  {
+    "time": "14:30",
+    "title": "Suína",
+    "note": "costelinha glazeada"
+  },
+  {
+    "time": "15:00",
+    "title": "Bovinos",
+    "note": "maminha/contra/picanha"
+  },
+  {
+    "time": "16:00",
+    "title": "Hamburguer"
+  }
+]
